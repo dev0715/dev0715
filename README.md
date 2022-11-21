@@ -132,13 +132,7 @@
     </td>  
   </tr>
 </table>
-<br/>
-
-<h1 align="center"></h1>
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=dev0715&show_icons=true&theme=gotham&count_private=true" />
-  <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev0715&layout=compact&theme=gotham&count_private=true" /> 
-  <img height="150px" />
-<br/>  
+<br/> 
 
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=dev0715&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
 <br>
